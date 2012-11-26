@@ -1,4 +1,4 @@
 codr
 ====
 
-A web based, local area network based code sharing tool.
+A web based, Local Area Network (LAN) based code sharing tool.
