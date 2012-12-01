@@ -1,4 +1,10 @@
 codr
 ====
 
-A web based, Local Area Network (LAN) based code sharing tool.
+James: "snip me in codr..."
+Ben  : "done."
+
+codr goes beyond conventional paste tools, giving more focus to 
+collaboration without loss of simplicity.
+
+codr can be used in a LAN setting.
